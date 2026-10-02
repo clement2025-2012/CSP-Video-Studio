@@ -4,7 +4,7 @@ A sleek, modern Windows desktop application for downloading high-quality video a
 
 ## 🚀 Features
 
-- **Multiple Resolutions:** Choose from 4K (2160p), 1080p, or 720p.
+- **Multiple Resolutions:** Choose from 8K (2160p), 1080p, or 720p.
 - **Audio Only:** Direct extraction to MP3.
 - **Metadata Preview:** Inspect links to see the video thumbnail, title, and channel before downloading.
 - **Custom Directory:** Choose exactly where your files are saved.
